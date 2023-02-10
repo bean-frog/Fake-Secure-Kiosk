@@ -22,7 +22,7 @@
   link2.href = "https://site-assets.fontawesome.com/releases/v6.3.0/css/sharp-solid.css";
   document.head.appendChild(link2);
 };
-    setTimeout(allDaShit, 1000)
+    setTimeout(allDaShit, 50)
 function allDaShit() {
     let fakebar = document.createElement("div");
     let body = document.body
